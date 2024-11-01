@@ -6,4 +6,6 @@
 |---|---|
 |![input frame 1](assets/frame1.png)|![input frame 1](assets/frame2.png)|
 ### Output Videos
-
+|Runway|DynamiCrafter|ToonCrafter|
+|---|---|--|
+|![Runway Output](assets/runway.gif)|![DynamiCrafter Output](assets/dynamiCrafter.gif)|![ToonCrafter Output](assets/toonCrafter.gif)|
