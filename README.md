@@ -1,2 +1,2 @@
 # GFIAnime
-GFI(Generative Frame Interpolation) Model specific to Anime domain
+## GFI(Generative Frame Interpolation) Model specific to Anime domain
